@@ -17,8 +17,8 @@ AWS_SECRET_ACCESS_KEY=<access key>
 (some) of the keys provided (to me) separately
 
 > ##### Note: </br>
-Alternative way is to store credentials and config in your `$HOME/.aws` folder.</br>
-see [Configuration and Credential Files](https://docs.aws.amazon.com/cli/latest/userguide/cli-config-files.html) for details.
+>Alternative way is to store credentials and config in your `$HOME/.aws` folder.</br>
+>see [Configuration and Credential Files](https://docs.aws.amazon.com/cli/latest/userguide/cli-config-files.html) for details.
 
 
 
