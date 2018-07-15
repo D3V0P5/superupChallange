@@ -10,9 +10,9 @@
     do
     	echo $i
       aws --region $i dynamodb get-item --table-name devops-challenge --key '{"code_name":{"S":"thedoctor"}}'
-    done ```
-    and waited for the right one... :trollface:
-
+    done ``` 
+   
+   and waited for the right one... :trollface:
 *  ##### Figuring out how to solve security issues regarding private keys</br>
   One can read the following documentation:</br>
   * Travis: [Travis Encryption keys](https://docs.travis-ci.com/user/encryption-keys/#Usage).
